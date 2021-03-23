@@ -14,9 +14,10 @@ author: Some Person
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  Home: "home"
   Overview: "overview"
   Demo: "demo"
+  Methodology: "methodology"
   Contact: "contact"
 
 

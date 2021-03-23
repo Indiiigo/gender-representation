@@ -1,12 +1,15 @@
 ---
 layout: page
-title: Overview
-subtitle: Broad Overview of our approach
+title: About me
+subtitle: Why you'd want to go on a date with me
 ---
 
-![here's an image](images/Opsview_Monitor_6.0_Dashboard.jpg)
+My name is Inigo Montoya. I have the following qualities:
 
-Here are the differet types of gender bias studied so far
+- I rock a great mustache
+- I'm extremely loyal to my family
+
+What else do you need?
 
 ### My story
 

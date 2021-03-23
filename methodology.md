@@ -1,0 +1,1 @@
+![nlp](images/do-robots-read-develandoo.jpg)
