@@ -1,1 +1,3 @@
+**Diese Seite ist eine erste, simple Beta-Version. Sie soll lediglich zeigen, wie unser Projekt einmal aussehen soll und enthält bis auf wenige einfache statistische Analysen noch keinerlei Ergebnisse oder interaktiven Elemente.**
+
 Anmerkung: Gender ist kein binäres Konzept, ausschließlich männlich und weiblich zu differenzieren entspricht nicht der Realität. Diese Tatsache spiegelt sich leider nicht in unseren Daten wieder, weshalb unsere Analysen nur zwischen diesen beiden Kategorien entscheiden.
