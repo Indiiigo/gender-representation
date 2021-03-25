@@ -15,9 +15,9 @@ author: "Weeber, Sen, Hamborg, Schwemmer"
 
 navbar-links:
   Home: "home"
-  Übersicht: "uebersicht"
+  Overview: "overview"
   Demo: "demo"
-  Indikatoren: "indikatoren"
+  Methodology: "methodology"
   Contact: "contact"
 
 
