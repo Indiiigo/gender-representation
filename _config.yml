@@ -14,7 +14,6 @@ author: "Weeber, Sen, Hamborg, Schwemmer"
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "home"
   Overview: "overview"
   Demo: "demo"
   Methodology: "methodology"
