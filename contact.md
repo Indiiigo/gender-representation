@@ -17,10 +17,10 @@
     </colgroup>
 <thead>
   <tr>
-    <th class="tg-amvt">Franziska Weeber</th>
-    <th class="tg-amvt">Indira Sen</th>
-    <th class="tg-amvt">Felix Hamborg</th>
-    <th class="tg-amvt">Carsten Schwemmer</th>
+    <th class="tg-amvt">Franziska<br>Weeber</th>
+    <th class="tg-amvt">Indira<br>Sen</th>
+    <th class="tg-amvt">Felix<br>Hamborg</th>
+    <th class="tg-amvt">Carsten<br>Schwemmer</th>
   </tr>
 </thead>
 <tbody>
@@ -29,12 +29,6 @@
     <td class="tg-46y7">Computational Social Science<br>Data Retrieval<br>Text-as-Data</td>
     <td class="tg-46y7">Media Bias<br>Natural Language Processing<br>Web Development</td>
     <td class="tg-46y7">Gender Bias<br>Communication<br>User Interfaces</td>
-  </tr>
-  <tr>
-    <td class="tg-46y7">weeberfranziska@gmail.com</td>
-    <td class="tg-46y7">isen1991@gmail.com</td>
-    <td class="tg-46y7">felixhamborg@gmail.com</td>
-    <td class="tg-46y7">c.schwem2er@gmail.com</td>
   </tr>
 </tbody>
 </table>
