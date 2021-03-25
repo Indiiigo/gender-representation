@@ -4,10 +4,24 @@ title: Overview
 subtitle: Broad Overview of our approach
 ---
 
-![here's an image](images/Opsview_Monitor_6.0_Dashboard.jpg)
+There are several different measures and indicators of gender bias in cultural content such as the [Bechdel Test](), analysis of power and agency, and network features.
 
-Here are the differet types of gender bias studied so far
 
-### My story
+Our analysis so far on XX movie scripts reveal the following broad patterns:
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+
+**Diverse Casts and Crews Matter**
+
+![genres](images/cast_genre.png)
+
+**Genres Matter**
+
+![genres](images/character_ratio.png)
+
+**Women talk a lot less**
+
+![genres](images/temporal_all.png)
+
+**Things are getting better over time**
+
