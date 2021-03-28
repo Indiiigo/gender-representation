@@ -8,8 +8,8 @@ Es gibt bereits mehrere Maße und Indikatoren für Gender Bias in Filmen wie bei
 
 Unsere Analyse für einige wenige bereits verfügbare Filmdaten (ohne die Analyse der Untertitel oder Skripte) zeigt folgende Ergebnisse:
 
-### Bechdal Test
-Der Bechdal Test gilt als bestanden, wenn in einem Film zwei namentlich benannte Frauen miteinander über etwas anderes als einen Mann reden. Für einige Filme ist das Ergebnis bereits online abrufbar. Die ersten zwei Abbildungen zeigen das Ergebnis des Bechdal Tests nach verschiedenen Kriterien. 
+### Bechdel Test
+Der Bechdel Test gilt als bestanden, wenn in einem Film zwei namentlich benannte Frauen miteinander über etwas anderes als einen Mann reden. Für einige Filme ist das Ergebnis bereits online abrufbar. Die ersten zwei Abbildungen zeigen das Ergebnis des Bechdel Tests nach verschiedenen Kriterien. 
 
 **Diversität in der Filmcrew macht einen Unterschied** 
 ![genres](images/crew_diversity.png)
