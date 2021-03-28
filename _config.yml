@@ -14,10 +14,10 @@ author: "Weeber, Sen, Hamborg, Schwemmer"
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Overview: "overview"
+  Übersicht: "uebersicht"
   Demo: "demo"
-  Methodology: "methodology"
-  Contact: "contact"
+  Methoden: "methoden"
+  Kontakt: "kontakt"
 
 
 # --- Logo --- #
@@ -72,8 +72,8 @@ rss-description: Wir informieren über Gender Bias in Filmen
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
-  linkedin: true
+  facebook: false
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer

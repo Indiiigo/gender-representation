@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Demo
-subtitle: This is what our demo will look like
 ---
 
-Here's what our website will look like once it's done
+So soll unsere Website aussehen, wenn wir unser Projekt abgeschlossen haben.
 
-![mockup](images/demo_mockup.png)
+![mockup](images/demo.png)
