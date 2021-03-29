@@ -41,7 +41,7 @@ round-avatar: true
 social-network-links:
 #  email: "someone@example.com"
 #  facebook: deanattali
-  github: indiigo
+  github: https://github.com/Indiiigo/movie_gender_bias
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
