@@ -13,7 +13,7 @@ Der Bechdel Test gilt als bestanden, wenn in einem Film zwei namentlich benannte
 
 
 **Das Genre macht einen Unterschied**
-<img src="images/cast_genre.png" width="200">
+<img src="images/cast_genre.png" width="2000">
 Betrachtet man den relativen Unterschied von Filmen, die den Bechdel Test bestehen und solchen, die ihn nicht bestehen nach Genre, so zeigen sich einige Unterschiede. Sci-fi und Actionfilme bestehen den Bechdel Test zum Beispiel seltener als Dramen.
 
 **Die Dinge entwickeln sich zum Besseren**
