@@ -13,15 +13,16 @@ Der Bechdel Test gilt als bestanden, wenn in einem Film zwei namentlich benannte
 
 
 **Das Genre macht einen Unterschied**
-<img src="images/cast_genre.png" width="2200">
+<img src="images/cast_genre.png" width="2200">  
+
 Betrachtet man den relativen Unterschied von Filmen, die den Bechdel Test bestehen und solchen, die ihn nicht bestehen nach Genre, so zeigen sich einige Unterschiede. Sci-fi und Actionfilme bestehen den Bechdel Test zum Beispiel seltener als Dramen.
 
 **Die Dinge entwickeln sich zum Besseren**
-![genres](images/temporal_all.png)
+![genres](images/temporal_all.png)\
 Der allgemeine Trend über die letzten Jahrzehnte zeigt, dass immer mehr Filme den Bechdal Test bestehen. Einzelne Ausreißer sind dadurch bedingt, dass nur wenige Filme für diese Jahre verfügbar waren.
 
 ### Frauen sprechen deutlich weniger
-![genres](images/character_ratio.png)
+![genres](images/character_ratio.png)\
 Im Durchschnitt haben Frauen in Filmen deutlich weniger als die Hälfte des Redeanteils. Das Histogramm zeigt für 10%-Schritte der Redeanteile, wie viele Filme in dieser Kategorie liegen. Die häufigste Kategorie liegt bei ca. eineme Drittel der Sprechanteile von Frauen. Ebenfalls bemerkenswert sind die Randkategorien: In den Kategorien von 0 bis 20% liegen mehr Filme als in den Kategorien von 60 bis 100%.
 
 
